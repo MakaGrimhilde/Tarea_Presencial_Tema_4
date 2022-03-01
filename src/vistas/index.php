@@ -3,7 +3,7 @@
 require_once '../controlador/controlador.php';
 
 //definición de objeto tipo controlador
-$controlador = new Controlador();
+$controlador = new controlador();
 
 if ($_GET && isset($_GET["accion"])){
 

@@ -3,10 +3,10 @@
 </div>
 <ul class="nav">
 <li class="nav-item">
-    <a class="nav-link" href="../vistas/index.php?accion=listarEventos">Listar Eventos</a>
+    <a class="nav-link" href="../vistas/index.php?accion=listar">Listar Eventos</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../vistas/index.php?accion=insertarEvento">Añadir Evento</a>
+    <a class="nav-link" href="../vistas/index.php?accion=insertar">Añadir Evento</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="../includes/cerrarsesion.php">Cerrar sesión</a>
