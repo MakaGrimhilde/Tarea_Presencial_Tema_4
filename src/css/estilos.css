@@ -1,0 +1,41 @@
+#cabecera {
+    
+    background-color:orange;
+    height: 12.5%;
+    font-family: 'Acme', sans-serif;
+    color: wheat;
+}
+
+.row {
+
+    margin: auto;
+
+}
+
+#buscar {
+
+    float: right;
+}
+
+.img {
+
+    width:104;
+    height:90;
+}
+
+.form-horizontal {
+ 
+    margin-top: 20;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+    
+}
+
+
+
+.btn {
+
+    font-weight: bold;
+    background-color: orangered;
+    border-color: rgb(255, 0, 0);
+}
